@@ -1,0 +1,29 @@
+@media (min-width:300px) and (max-width:1200px){
+    body{
+
+    background-image: url("background images/index_background_mobile.jpg");
+    
+    }}
+    @media (min-width:1200px) {
+    body{
+
+    background-image: url("background images/index_background_pc.jpg");
+    
+    }}
+    /* .nav
+    {
+      background-image: url("background images/nav.jpg");
+    } */
+    hr{
+        background-color: white;
+        
+
+    }
+    .heading
+    {
+      text-align: center;
+      font-weight: 900;
+      font-style: italic;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    
